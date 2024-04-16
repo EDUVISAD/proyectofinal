@@ -1,0 +1,10 @@
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\Entidades\bin\Debug\Entidades.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\Entidades\bin\Debug\BLL.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\Entidades\bin\Debug\DAL.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\Entidades\bin\Debug\BLL.pdb
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\Entidades\bin\Debug\DAL.pdb
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\Entidades\obj\Debug\Entidades.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\Entidades\obj\Debug\Entidades.pdb

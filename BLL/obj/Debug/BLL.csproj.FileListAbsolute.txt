@@ -1,0 +1,17 @@
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\BLL\bin\Debug\BLL.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\BLL\bin\Debug\BLL.pdb
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\BLL\bin\Debug\DAL.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\BLL\bin\Debug\DAL.pdb
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\BLL\obj\Debug\BLL.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\BLL\obj\Debug\BLL.pdb
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\BLL\bin\Debug\BLL.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\BLL\bin\Debug\BLL.pdb
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\BLL\bin\Debug\DAL.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\BLL\bin\Debug\DAL.pdb
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\BLL\obj\Debug\BLL.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\BLL\obj\Debug\BLL.pdb

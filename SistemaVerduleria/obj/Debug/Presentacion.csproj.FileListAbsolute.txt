@@ -1,0 +1,155 @@
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\SistemaVerduleria.dll.config
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\SistemaVerduleria.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\SistemaVerduleria.pdb
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\csc.exe
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\csc.exe.config
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\csc.rsp
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\csi.exe
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\csi.exe.config
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\csi.rsp
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.AppContext.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Console.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.IO.Compression.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Net.Http.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.ValueTuple.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\vbc.exe
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\vbc.exe.config
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\vbc.rsp
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\VBCSCompiler.exe
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\Antlr3.Runtime.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\Newtonsoft.Json.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\System.Web.Optimization.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\WebGrease.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\System.Web.Optimization.xml
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\Newtonsoft.Json.xml
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\Antlr3.Runtime.pdb
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\obj\Debug\SistemaVerduleria.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\obj\Debug\SistemaVerduleria.pdb
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\BLL.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\DAL.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\BLL.pdb
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\SistemaVerduleria\bin\DAL.pdb
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\SistemaVerduleria.dll.config
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\SistemaVerduleria.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\SistemaVerduleria.pdb
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\csc.exe
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\csc.exe.config
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\csc.rsp
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\csi.exe
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\csi.exe.config
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\csi.rsp
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.AppContext.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Console.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Net.Http.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\vbc.exe
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\vbc.exe.config
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\vbc.rsp
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\Antlr3.Runtime.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\BLL.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\Newtonsoft.Json.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\System.Web.Optimization.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\WebGrease.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\DAL.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\BLL.pdb
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\System.Web.Optimization.xml
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\Newtonsoft.Json.xml
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\Antlr3.Runtime.pdb
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\bin\DAL.pdb
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\obj\Debug\SistemaVerduleria.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\SistemaVerduleria\obj\Debug\SistemaVerduleria.pdb

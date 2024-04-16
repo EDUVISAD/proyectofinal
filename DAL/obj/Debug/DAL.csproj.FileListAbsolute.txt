@@ -1,0 +1,11 @@
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\DAL\bin\Debug\DAL.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\DAL\bin\Debug\DAL.pdb
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\DAL\obj\Debug\DAL.dll
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\DAL\obj\Debug\DAL.pdb
+C:\Users\lvalverde\Desktop\Documentos\Personal LD\SistemaVerduleria\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\DAL\bin\Debug\DAL.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\DAL\bin\Debug\DAL.pdb
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\DAL\obj\Debug\DAL.dll
+C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\DAL\obj\Debug\DAL.pdb
