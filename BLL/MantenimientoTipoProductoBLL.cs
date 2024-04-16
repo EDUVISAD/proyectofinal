@@ -1,36 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using DAL;
 
-namespace BLL
+
+public class MantenimientoTipoProductoBLL
 {
-    public class MantenimientoTipoProductoBLL
+    private readonly MantenimientoTipoProductoDAL tipoProductoDAL = new MantenimientoTipoProductoDAL();
+
+    public void InsertaTipoProducto(string nombre, string tipoProducto, string tipoPrecio, int cantidad, decimal precio)
     {
-        public void InsertaTipoProducto(string Nombre, string TipoProducto, string TipoPrecio, int Cantidad, decimal Precio)
-        {
+        tipoProductoDAL.InsertaTipoProducto(nombre, tipoProducto, tipoPrecio, cantidad, precio);
+    }
 
-            MantenimientoTipoProductoDAL TipoProductoDAL = new MantenimientoTipoProductoDAL();
-            TipoProductoDAL.InsertaTipoProducto(Nombre, TipoProducto, TipoPrecio, Cantidad, Precio);
+    public void ActualizaTipoProducto(string nombre, string tipoProducto, string tipoPrecio, int cantidad, decimal precio)
+    {
+        tipoProductoDAL.ActualizaTipoProducto(nombre, tipoProducto, tipoPrecio, cantidad, precio);
+    }
 
-        }
-
-        public void ActualizaTipoProducto(string Nombre, string TipoProducto, string TipoPrecio, int Cantidad, decimal Precio)
-        {
-
-            MantenimientoTipoProductoDAL TipoProductoDAL = new MantenimientoTipoProductoDAL();
-            TipoProductoDAL.ActualizaTipoProducto(Nombre, TipoProducto, TipoPrecio, Cantidad, Precio);
-
-        }
-
-        public bool ValidaExistenciaProducto(string nombre)
-        {
-            MantenimientoTipoProductoDAL Producto = new MantenimientoTipoProductoDAL();
-
-            return Producto.ValidaExistenciaProducto(nombre);
-        }
+    public bool ValidaExistenciaProducto(string nombre)
+    {
+        return tipoProductoDAL.ValidaExistenciaProducto(nombre);
     }
 }

@@ -1,68 +1,48 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Data;
+﻿using System.Data;
 using System.Data.SqlClient;
 
 namespace DAL
 {
     public class MantenimientoTipoProductoDAL
     {
-        public void InsertaTipoProducto(string Nombre, string TipoProducto, string TipoPrecio, int Cantidad, decimal Precio)
+        private readonly DataBaseDAL db = new DataBaseDAL();
+
+        public void InsertaTipoProducto(string nombre, string tipoProducto, string tipoPrecio, int cantidad, decimal precio)
         {
-
-            DataBaseDAL db = new DataBaseDAL();
-            SqlCommand comando = new SqlCommand("SP_RegistraTipoProducto");
-            comando.CommandType = CommandType.StoredProcedure;
-
-            comando.Parameters.AddWithValue("@Nombre", Nombre);
-            comando.Parameters.AddWithValue("@TipoProducto", TipoProducto);
-            comando.Parameters.AddWithValue("@TipoPrecio", TipoPrecio);
-            comando.Parameters.AddWithValue("@Cantidad", Cantidad);
-            comando.Parameters.AddWithValue("@Precio", Precio);
-
+            SqlCommand comando = CrearComando("SP_RegistraTipoProducto");
+            AgregarParametros(comando, nombre, tipoProducto, tipoPrecio, cantidad, precio);
             db.InsercionDatos(comando);
         }
 
-        public void ActualizaTipoProducto(string Nombre, string TipoProducto, string TipoPrecio, int Cantidad, decimal Precio)
+        public void ActualizaTipoProducto(string nombre, string tipoProducto, string tipoPrecio, int cantidad, decimal precio)
         {
-
-            DataBaseDAL db = new DataBaseDAL();
-            SqlCommand comando = new SqlCommand("SP_ActualizaTipoProducto");
-            comando.CommandType = CommandType.StoredProcedure;
-
-            comando.Parameters.AddWithValue("@Nombre", Nombre);
-            comando.Parameters.AddWithValue("@TipoProducto", TipoProducto);
-            comando.Parameters.AddWithValue("@TipoPrecio", TipoPrecio);
-            comando.Parameters.AddWithValue("@Cantidad", Cantidad);
-            comando.Parameters.AddWithValue("@Precio", Precio);
-
+            SqlCommand comando = CrearComando("SP_ActualizaTipoProducto");
+            AgregarParametros(comando, nombre, tipoProducto, tipoPrecio, cantidad, precio);
             db.InsercionDatos(comando);
         }
 
-        public bool ValidaExistenciaProducto(string Nombre)
+        public bool ValidaExistenciaProducto(string nombre)
         {
-            bool existe;
-
-            DataBaseDAL db = new DataBaseDAL();
-            SqlCommand comando = new SqlCommand("SP_ConsultaExistenciaProducto");
-            comando.CommandType = CommandType.StoredProcedure;
-            comando.Parameters.AddWithValue("@Nombre", Nombre);
-
+            SqlCommand comando = CrearComando("SP_ConsultaExistenciaProducto");
+            comando.Parameters.AddWithValue("@Nombre", nombre);
             DataSet ds = db.LecturaDatos(comando, "[T_Productos]");
+            return ds.Tables[0].Rows.Count > 0;
+        }
 
-            if (ds.Tables[0].Rows.Count == 0)
-            {
-                existe = false;
-            }
-            else
-            {
-                existe = true;
-            }
+        private SqlCommand CrearComando(string nombreSP)
+        {
+            SqlCommand comando = new SqlCommand(nombreSP);
+            comando.CommandType = CommandType.StoredProcedure;
+            return comando;
+        }
 
-            return existe;
+        private void AgregarParametros(SqlCommand comando, string nombre, string tipoProducto, string tipoPrecio, int cantidad, decimal precio)
+        {
+            comando.Parameters.AddWithValue("@Nombre", nombre);
+            comando.Parameters.AddWithValue("@TipoProducto", tipoProducto);
+            comando.Parameters.AddWithValue("@TipoPrecio", tipoPrecio);
+            comando.Parameters.AddWithValue("@Cantidad", cantidad);
+            comando.Parameters.AddWithValue("@Precio", precio);
         }
     }
 }
